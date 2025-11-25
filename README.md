@@ -39,8 +39,8 @@ This will automatically:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd trinite
+git clone https://github.com/isyedrayan1/htt.git
+cd htt
 ```
 
 ### Step 2: Backend Setup
@@ -48,13 +48,13 @@ cd trinite
 **Open Terminal 1** (for backend):
 
 ```bash
-# Navigate to backend folder
-cd backend
+# In the root folder make virtual environment and inspall requirements.txt
 
 # Install Python dependencies
 pip install -r requirements.txt
 
 # Start backend server
+cd backend
 uvicorn main:app --reload --port 8000
 ```
 
@@ -324,7 +324,6 @@ For any issues during evaluation:
 1. Check Python and Node.js are installed
 2. Verify ports 8000 and 3001 are available
 3. Run `start.bat` or `start.sh` from project root
-4. Check `docs/SETUP.md` for detailed troubleshooting
 
 ---
 
