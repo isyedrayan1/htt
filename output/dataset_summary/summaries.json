@@ -1,0 +1,1977 @@
+[
+  {
+    "path": "COTA\\Race 1\\00_Results GR Cup Race 1 Official_Anonymized.CSV",
+    "name": "00_Results GR Cup Race 1 Official_Anonymized.CSV",
+    "size_bytes": 3385,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5"
+    ],
+    "dtypes": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "object"
+    },
+    "missing_pct": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": {
+        "1;46;Classified;17;45:57.575;-;-;8;2:28.630;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "2;7;Classified;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "3;16;Classified;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "4;55;Classified;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "5;72;Classified;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1
+      }
+    },
+    "head": [
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "1;46;Classified;17;45:57.575;-;-;8;2:28.630;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "2;7;Classified;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "3;16;Classified;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "4;55;Classified;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "5;72;Classified;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\03_Provisional Results_Race 1_Anonymized.CSV",
+    "name": "03_Provisional Results_Race 1_Anonymized.CSV",
+    "size_bytes": 3385,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5"
+    ],
+    "dtypes": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "object"
+    },
+    "missing_pct": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": {
+        "1;46;Classified;17;45:57.575;-;-;8;2:28.630;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "2;7;Classified;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "3;16;Classified;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "4;55;Classified;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "5;72;Classified;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1
+      }
+    },
+    "head": [
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "1;46;Classified;17;45:57.575;-;-;8;2:28.630;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "2;7;Classified;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "3;16;Classified;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "4;55;Classified;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "5;72;Classified;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\05_Provisional Results by Class_Race 1_Anonymized.CSV",
+    "name": "05_Provisional Results by Class_Race 1_Anonymized.CSV",
+    "size_bytes": 2199,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH"
+    ],
+    "dtypes": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "object"
+    },
+    "missing_pct": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": {
+        "Am;1;1;46;Toyota GR86;17;45:57.575;;;8;2:28.630;132.5": 1,
+        "Am;2;2;7;Toyota GR86;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5": 1,
+        "Am;3;3;16;Toyota GR86;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4": 1,
+        "Am;4;4;55;Toyota GR86;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5": 1,
+        "Am;5;5;72;Toyota GR86;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3": 1
+      }
+    },
+    "head": [
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;1;1;46;Toyota GR86;17;45:57.575;;;8;2:28.630;132.5"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;2;2;7;Toyota GR86;17;45:58.259;+0.684;+0.684;7;2:28.678;132.5"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;3;3;16;Toyota GR86;17;45:58.588;+1.013;+0.329;9;2:28.726;132.4"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;4;4;55;Toyota GR86;17;45:58.880;+1.305;+0.292;10;2:28.679;132.5"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;5;5;72;Toyota GR86;17;45:59.793;+2.218;+0.913;9;2:28.848;132.3"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+    "name": "23_AnalysisEnduranceWithSections_Race 1_Anonymized.CSV",
+    "size_bytes": 121505,
+    "rows": 486,
+    "cols": 1,
+    "columns": [
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed"
+    ],
+    "dtypes": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "object"
+    },
+    "missing_pct": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": {
+        "3;1;1;3:46.084;0;;53.893;0;1:28.398;0;1:23.793;0;87.1;3:46.084;15:58:26.323;0:53.893;1:28.398;1:23.793;107.8;;Am;;Toyota Gazoo Racing;FCY;53.893;88.398;83.793;;;;53.893;32.095;1:25.988;56.303;2:22.291;36.726;2:59.017;47.067;3:46.084": 1,
+        "3;1;2;2:48.736;0;;45.381;0;1:00.988;0;1:02.367;0;116.7;6:34.820;16:01:15.059;0:45.381;1:00.988;1:02.367;202.2;;Am;;Toyota Gazoo Racing;GF;45.381;60.988;62.367;30.942;30.942;14.439;45.381;24.32;1:09.701;36.668;1:46.369;30.435;2:16.804;31.932;2:48.736": 1,
+        "3;1;3;2:36.896;0;;33.659;0;1:01.873;0;1:01.364;0;125.6;9:11.716;16:03:51.955;0:33.659;1:01.873;1:01.364;200.0;;Am;;Toyota Gazoo Racing;GF;33.659;61.873;61.364;20.811;20.811;12.848;33.659;25.793;59.452;36.080;1:35.532;28.996;2:04.528;32.368;2:36.896": 1,
+        "3;1;4;2:33.653;0;;33.486;0;58.603;0;1:01.564;0;128.2;11:45.369;16:06:25.608;0:33.486;0:58.603;1:01.564;201.5;;Am;;Toyota Gazoo Racing;GF;33.486;58.603;61.564;20.898;20.898;12.588;33.486;22.818;56.304;35.785;1:32.089;29.336;2:01.425;32.228;2:33.653": 1,
+        "3;1;5;2:33.941;0;;33.822;0;59.473;0;1:00.646;0;128.0;14:19.310;16:08:59.549;0:33.822;0:59.473;1:00.646;197.1;;Am;;Toyota Gazoo Racing;GF;33.822;59.473;60.646;20.686;20.686;13.136;33.822;23.179;57.001;36.294;1:33.295;29.126;2:02.421;31.52;2:33.941": 1
+      }
+    },
+    "head": [
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;1;3:46.084;0;;53.893;0;1:28.398;0;1:23.793;0;87.1;3:46.084;15:58:26.323;0:53.893;1:28.398;1:23.793;107.8;;Am;;Toyota Gazoo Racing;FCY;53.893;88.398;83.793;;;;53.893;32.095;1:25.988;56.303;2:22.291;36.726;2:59.017;47.067;3:46.084"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;2;2:48.736;0;;45.381;0;1:00.988;0;1:02.367;0;116.7;6:34.820;16:01:15.059;0:45.381;1:00.988;1:02.367;202.2;;Am;;Toyota Gazoo Racing;GF;45.381;60.988;62.367;30.942;30.942;14.439;45.381;24.32;1:09.701;36.668;1:46.369;30.435;2:16.804;31.932;2:48.736"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;3;2:36.896;0;;33.659;0;1:01.873;0;1:01.364;0;125.6;9:11.716;16:03:51.955;0:33.659;1:01.873;1:01.364;200.0;;Am;;Toyota Gazoo Racing;GF;33.659;61.873;61.364;20.811;20.811;12.848;33.659;25.793;59.452;36.080;1:35.532;28.996;2:04.528;32.368;2:36.896"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;4;2:33.653;0;;33.486;0;58.603;0;1:01.564;0;128.2;11:45.369;16:06:25.608;0:33.486;0:58.603;1:01.564;201.5;;Am;;Toyota Gazoo Racing;GF;33.486;58.603;61.564;20.898;20.898;12.588;33.486;22.818;56.304;35.785;1:32.089;29.336;2:01.425;32.228;2:33.653"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;5;2:33.941;0;;33.822;0;59.473;0;1:00.646;0;128.0;14:19.310;16:08:59.549;0:33.822;0:59.473;1:00.646;197.1;;Am;;Toyota Gazoo Racing;GF;33.822;59.473;60.646;20.686;20.686;13.136;33.822;23.179;57.001;36.294;1:33.295;29.126;2:02.421;31.52;2:33.941"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\26_Weather_Race 1_Anonymized.CSV",
+    "name": "26_Weather_Race 1_Anonymized.CSV",
+    "size_bytes": 3017,
+    "rows": 44,
+    "cols": 1,
+    "columns": [
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN"
+    ],
+    "dtypes": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "object"
+    },
+    "missing_pct": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": {
+        "1745700936;4/26/2025 8:55:36 PM;28.69;43.2;61.65;993.1;23.76;141;0": 1,
+        "1745700998;4/26/2025 8:56:38 PM;28.63;43.1;61.66;993.2;14.4;147;0": 1,
+        "1745701061;4/26/2025 8:57:41 PM;28.59;42.9;62.1;993.2;13.32;151;0": 1,
+        "1745701124;4/26/2025 8:58:44 PM;28.55;42.6;62.01;993.1;15.48;143;0": 1,
+        "1745701186;4/26/2025 8:59:46 PM;28.6;42.6;62.71;993.1;9.36;135;0": 1
+      }
+    },
+    "head": [
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745700936;4/26/2025 8:55:36 PM;28.69;43.2;61.65;993.1;23.76;141;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745700998;4/26/2025 8:56:38 PM;28.63;43.1;61.66;993.2;14.4;147;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745701061;4/26/2025 8:57:41 PM;28.59;42.9;62.1;993.2;13.32;151;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745701124;4/26/2025 8:58:44 PM;28.55;42.6;62.01;993.1;15.48;143;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745701186;4/26/2025 8:59:46 PM;28.6;42.6;62.71;993.1;9.36;135;0"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+    "name": "99_Best 10 Laps By Driver_Race 1_Anonymized.CSV",
+    "size_bytes": 4609,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE"
+    ],
+    "dtypes": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "object"
+    },
+    "missing_pct": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": {
+        "2;Toyota GR86;Am;1;;0;;0;;0;;0;;0;;0;;0;;0;;0;;0;": 1,
+        "3;Toyota GR86;Am;17;2:31.035;10;2:31.387;6;2:31.465;16;2:31.475;17;2:31.641;7;2:31.769;8;2:31.913;14;2:32.195;15;2:32.634;3;2:32.654;5;2:31.816": 1,
+        "3;Toyota GR86;Am;17;2:32.070;9;2:32.311;10;2:32.325;16;2:32.568;7;2:32.592;6;2:32.852;11;2:32.909;8;2:33.121;14;2:33.653;4;2:33.850;15;2:32.825": 1,
+        "5;Toyota GR86;Am;17;2:30.848;9;2:31.027;4;2:31.110;3;2:31.326;6;2:31.525;11;2:31.810;14;2:31.882;17;2:32.060;10;2:32.444;5;2:32.529;15;2:31.656": 1,
+        "7;Toyota GR86;Am;17;2:28.678;7;2:28.743;10;2:28.875;6;2:28.893;8;2:28.926;9;2:29.056;5;2:29.081;11;2:29.309;14;2:29.479;4;2:29.855;16;2:29.089": 1
+      }
+    },
+    "head": [
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "2;Toyota GR86;Am;1;;0;;0;;0;;0;;0;;0;;0;;0;;0;;0;"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "3;Toyota GR86;Am;17;2:31.035;10;2:31.387;6;2:31.465;16;2:31.475;17;2:31.641;7;2:31.769;8;2:31.913;14;2:32.195;15;2:32.634;3;2:32.654;5;2:31.816"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "3;Toyota GR86;Am;17;2:32.070;9;2:32.311;10;2:32.325;16;2:32.568;7;2:32.592;6;2:32.852;11;2:32.909;8;2:33.121;14;2:33.653;4;2:33.850;15;2:32.825"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "5;Toyota GR86;Am;17;2:30.848;9;2:31.027;4;2:31.110;3;2:31.326;6;2:31.525;11;2:31.810;14;2:31.882;17;2:32.060;10;2:32.444;5;2:32.529;15;2:31.656"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "7;Toyota GR86;Am;17;2:28.678;7;2:28.743;10;2:28.875;6;2:28.893;8;2:28.926;9;2:29.056;5;2:29.081;11;2:29.309;14;2:29.479;4;2:29.855;16;2:29.089"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\COTA_lap_end_time_R1.csv",
+    "name": "COTA_lap_end_time_R1.csv",
+    "size_bytes": 88173,
+    "rows": 631,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "expire_at",
+      "value"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "expire_at": "float64",
+      "value": "object"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "expire_at": 100.0,
+      "value": 0.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 631.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 631.0,
+        "mean": 1878.5103011093502,
+        "std": 7604.103367583434,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 631
+      },
+      "meta_time": {
+        "2025-04-26T20:58:40.997Z": 4,
+        "2025-04-26T21:44:45.150Z": 3,
+        "2025-04-26T21:19:02.786Z": 3,
+        "2025-04-26T20:48:17.235Z": 2,
+        "2025-04-26T21:18:36.192Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 631
+      },
+      "meta_session": {
+        "R1": 631
+      },
+      "timestamp": {
+        "2025-04-26T21:43:12.083Z": 1,
+        "2025-04-26T20:54:54.445Z": 1,
+        "2025-04-26T20:48:19.686Z": 1,
+        "2025-04-26T21:44:59.853Z": 1,
+        "2025-04-26T21:40:50.147Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 32,
+        "GR86-012-8": 26,
+        "GR86-033-46": 26,
+        "GR86-049-88": 26,
+        "GR86-065-5": 26
+      },
+      "value": {
+        "2025-04-26T21:43:12.083Z": 1,
+        "2025-04-26T20:54:54.445Z": 1,
+        "2025-04-26T20:48:19.686Z": 1,
+        "2025-04-26T21:44:59.853Z": 1,
+        "2025-04-26T21:40:50.147Z": 1
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:43:13.982Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:43:12.083Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 2,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:43:12.083Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:54.770Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:54:54.445Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 1,
+        "expire_at": NaN,
+        "value": "2025-04-26T20:54:54.445Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:48:20.749Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:48:19.686Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 32768,
+        "expire_at": NaN,
+        "value": "2025-04-26T20:48:19.686Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:45:00.630Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:44:59.853Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 19,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:44:59.853Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:40:51.262Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:40:50.147Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 18,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:40:50.147Z"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\COTA_lap_start_time_R1.csv",
+    "name": "COTA_lap_start_time_R1.csv",
+    "size_bytes": 88086,
+    "rows": 631,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "expire_at",
+      "value"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "expire_at": "float64",
+      "value": "object"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "expire_at": 100.0,
+      "value": 0.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 631.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 631.0,
+        "mean": 425.2583201267829,
+        "std": 3667.9443031407345,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 631
+      },
+      "meta_time": {
+        "2025-04-26T21:09:15.408Z": 3,
+        "2025-04-26T21:06:10.147Z": 3,
+        "2025-04-26T21:19:02.786Z": 3,
+        "2025-04-26T21:17:04.876Z": 2,
+        "2025-04-26T21:30:56.655Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 631
+      },
+      "meta_session": {
+        "R1": 631
+      },
+      "timestamp": {
+        "2025-04-26T21:06:09.583Z": 2,
+        "2025-04-26T20:54:55.535Z": 1,
+        "2025-04-26T21:21:30.401Z": 1,
+        "2025-04-26T21:24:01.888Z": 1,
+        "2025-04-26T21:35:49.175Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 32,
+        "GR86-012-8": 26,
+        "GR86-033-46": 26,
+        "GR86-049-88": 26,
+        "GR86-065-5": 26
+      },
+      "value": {
+        "2025-04-26T21:06:09.583Z": 2,
+        "2025-04-26T20:54:55.535Z": 1,
+        "2025-04-26T21:21:30.401Z": 1,
+        "2025-04-26T21:24:01.888Z": 1,
+        "2025-04-26T21:35:49.175Z": 1
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:43:13.982Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:43:12.084Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 32768,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:43:12.084Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:54.770Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:54:54.446Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 2,
+        "expire_at": NaN,
+        "value": "2025-04-26T20:54:54.446Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:48:20.750Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:48:19.687Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 1,
+        "expire_at": NaN,
+        "value": "2025-04-26T20:48:19.687Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:45:00.630Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:44:59.854Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 20,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:44:59.854Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:40:51.262Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:40:50.149Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 19,
+        "expire_at": NaN,
+        "value": "2025-04-26T21:40:50.149Z"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\COTA_lap_time_R1.csv",
+    "name": "COTA_lap_time_R1.csv",
+    "size_bytes": 75337,
+    "rows": 631,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "value",
+      "expire_at"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "value": "int64",
+      "expire_at": "float64"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "value": 0.0,
+      "expire_at": 100.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 631.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 631.0,
+        "mean": 1878.5103011093502,
+        "std": 7604.103367583434,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "value": {
+        "count": 631.0,
+        "mean": 257684.2916006339,
+        "std": 550720.4714731715,
+        "min": 0.0,
+        "25%": 149972.5,
+        "50%": 152601.0,
+        "75%": 206302.5,
+        "max": 6399021.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 631
+      },
+      "meta_time": {
+        "2025-04-26T21:44:45.149Z": 3,
+        "2025-04-26T21:09:15.408Z": 3,
+        "2025-04-26T20:58:40.997Z": 3,
+        "2025-04-26T20:48:17.235Z": 2,
+        "2025-04-26T21:17:04.876Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 631
+      },
+      "meta_session": {
+        "R1": 631
+      },
+      "timestamp": {
+        "2025-04-26T21:43:12.083Z": 1,
+        "2025-04-26T20:54:54.445Z": 1,
+        "2025-04-26T20:48:19.686Z": 1,
+        "2025-04-26T21:44:59.853Z": 1,
+        "2025-04-26T21:40:50.147Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 32,
+        "GR86-012-8": 26,
+        "GR86-033-46": 26,
+        "GR86-049-88": 26,
+        "GR86-065-5": 26
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:43:13.981Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:43:12.083Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 2,
+        "value": 1476949,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:54.770Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:54:54.445Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 1,
+        "value": 394717,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:48:20.750Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T20:48:19.686Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 32768,
+        "value": 2048484,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:45:00.630Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:44:59.853Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 19,
+        "value": 249700,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T21:40:51.262Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "timestamp": "2025-04-26T21:40:50.147Z",
+        "vehicle_id": "GR86-004-78",
+        "outing": 0,
+        "lap": 18,
+        "value": 151200,
+        "expire_at": NaN
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 1\\R1_cota_telemetry_data.csv",
+    "name": "R1_cota_telemetry_data.csv",
+    "size_bytes": 2317125823,
+    "warning": "Failed full read: Error tokenizing data. C error: out of memory; used sample nrows=1000",
+    "rows": 1000,
+    "cols": 13,
+    "columns": [
+      "expire_at",
+      "lap",
+      "meta_event",
+      "meta_session",
+      "meta_source",
+      "meta_time",
+      "original_vehicle_id",
+      "outing",
+      "telemetry_name",
+      "telemetry_value",
+      "timestamp",
+      "vehicle_id",
+      "vehicle_number"
+    ],
+    "dtypes": {
+      "expire_at": "float64",
+      "lap": "int64",
+      "meta_event": "object",
+      "meta_session": "object",
+      "meta_source": "object",
+      "meta_time": "object",
+      "original_vehicle_id": "object",
+      "outing": "int64",
+      "telemetry_name": "object",
+      "telemetry_value": "float64",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "vehicle_number": "int64"
+    },
+    "missing_pct": {
+      "expire_at": 100.0,
+      "lap": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "original_vehicle_id": 0.0,
+      "outing": 0.0,
+      "telemetry_name": 0.0,
+      "telemetry_value": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "vehicle_number": 0.0
+    },
+    "numeric_describe": {
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      },
+      "lap": {
+        "count": 1000.0,
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "25%": 1.0,
+        "50%": 1.0,
+        "75%": 1.0,
+        "max": 1.0
+      },
+      "outing": {
+        "count": 1000.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "telemetry_value": {
+        "count": 1000.0,
+        "mean": 177.877868,
+        "std": 989.8394776452432,
+        "min": -5.300000000000001,
+        "25%": 0.0,
+        "50%": 0.031,
+        "75%": 2.0,
+        "max": 7170.0
+      },
+      "vehicle_number": {
+        "count": 1000.0,
+        "mean": 2.0,
+        "std": 0.0,
+        "min": 2.0,
+        "25%": 2.0,
+        "50%": 2.0,
+        "75%": 2.0,
+        "max": 2.0
+      }
+    },
+    "top_values": {
+      "meta_event": {
+        "I_R02_2025-04-27": 1000
+      },
+      "meta_session": {
+        "R1": 1000
+      },
+      "meta_source": {
+        "kafka:gr-raw": 1000
+      },
+      "meta_time": {
+        "2025-04-26T20:54:51.790Z": 44,
+        "2025-04-26T20:54:50.166Z": 39,
+        "2025-04-26T20:54:55.984Z": 37,
+        "2025-04-26T20:54:54.298Z": 37,
+        "2025-04-26T20:54:51.792Z": 37
+      },
+      "original_vehicle_id": {
+        "GR86-002-2": 1000
+      },
+      "telemetry_name": {
+        "accx_can": 136,
+        "accy_can": 135,
+        "ath": 135,
+        "pbrake_r": 135,
+        "pbrake_f": 135
+      },
+      "timestamp": {
+        "2025-04-24T20:53:29.431Z": 16,
+        "2025-04-24T20:53:28.363Z": 16,
+        "2025-04-24T20:53:29.206Z": 16,
+        "2025-04-24T20:53:27.075Z": 14,
+        "2025-04-24T20:53:31.831Z": 14
+      },
+      "vehicle_id": {
+        "GR86-002-2": 1000
+      }
+    },
+    "head": [
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:55.984Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "accx_can",
+        "telemetry_value": 0.262,
+        "timestamp": "2025-04-24T20:53:32.719Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:55.984Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "accy_can",
+        "telemetry_value": -0.093,
+        "timestamp": "2025-04-24T20:53:32.719Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:55.984Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "ath",
+        "telemetry_value": 100.01,
+        "timestamp": "2025-04-24T20:53:32.719Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:55.984Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "pbrake_r",
+        "telemetry_value": 0.0,
+        "timestamp": "2025-04-24T20:53:32.719Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R1",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-26T20:54:55.984Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "pbrake_f",
+        "telemetry_value": 0.0,
+        "timestamp": "2025-04-24T20:53:32.719Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\03_Provisional Results_ Race 2_Anonymized.CSV",
+    "name": "03_Provisional Results_ Race 2_Anonymized.CSV",
+    "size_bytes": 3390,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5"
+    ],
+    "dtypes": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "object"
+    },
+    "missing_pct": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": {
+        "1;7;Classified;17;46:39.087;-;-;5;2:28.112;133.0;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "2;13;Classified;17;46:39.645;+0.558;+0.558;16;2:28.115;133.0;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "3;16;Classified;17;46:44.494;+5.407;+4.849;11;2:28.510;132.6;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "4;21;Classified;17;46:44.686;+5.599;+0.192;11;2:28.397;132.7;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1,
+        "5;71;Classified;17;46:45.378;+6.291;+0.692;16;2:29.061;132.1;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;": 1
+      }
+    },
+    "head": [
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "1;7;Classified;17;46:39.087;-;-;5;2:28.112;133.0;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "2;13;Classified;17;46:39.645;+0.558;+0.558;16;2:28.115;133.0;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "3;16;Classified;17;46:44.494;+5.407;+4.849;11;2:28.510;132.6;Am;Legends;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "4;21;Classified;17;46:44.686;+5.599;+0.192;11;2:28.397;132.7;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      },
+      {
+        "POSITION;NUMBER;STATUS;LAPS;TOTAL_TIME;GAP_FIRST;GAP_PREVIOUS;FL_LAPNUM;FL_TIME;FL_KPH;CLASS;GROUP;DIVISION;VEHICLE;TIRES;ECM Participant Id;ECM Team Id;ECM Category Id;ECM Car Id;ECM Brand Id;ECM Country Id;*Extra 7;*Extra 8;*Extra 9;Sort Key;DRIVER_*Extra 3;DRIVER_*Extra 4;DRIVER_*Extra 5": "5;71;Classified;17;46:45.378;+6.291;+0.692;16;2:29.061;132.1;Am;;GR Cup;Toyota GR86;;;;;;;;;;;;;;"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\05_Provisional Results by Class_ Race 2_Anonymized.CSV",
+    "name": "05_Provisional Results by Class_ Race 2_Anonymized.CSV",
+    "size_bytes": 2208,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH"
+    ],
+    "dtypes": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "object"
+    },
+    "missing_pct": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": {
+        "Am;1;1;7;Toyota GR86;17;46:39.087;;;5;2:28.112;133.0": 1,
+        "Am;2;2;13;Toyota GR86;17;46:39.645;+0.558;+0.558;16;2:28.115;133.0": 1,
+        "Am;3;3;16;Toyota GR86;17;46:44.494;+5.407;+4.849;11;2:28.510;132.6": 1,
+        "Am;4;4;21;Toyota GR86;17;46:44.686;+5.599;+0.192;11;2:28.397;132.7": 1,
+        "Am;5;5;71;Toyota GR86;17;46:45.378;+6.291;+0.692;16;2:29.061;132.1": 1
+      }
+    },
+    "head": [
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;1;1;7;Toyota GR86;17;46:39.087;;;5;2:28.112;133.0"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;2;2;13;Toyota GR86;17;46:39.645;+0.558;+0.558;16;2:28.115;133.0"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;3;3;16;Toyota GR86;17;46:44.494;+5.407;+4.849;11;2:28.510;132.6"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;4;4;21;Toyota GR86;17;46:44.686;+5.599;+0.192;11;2:28.397;132.7"
+      },
+      {
+        "CLASS_TYPE;POS;PIC;NUMBER;VEHICLE;LAPS;ELAPSED;GAP_FIRST;GAP_PREVIOUS;BEST_LAP_NUM;BEST_LAP_TIME;BEST_LAP_KPH": "Am;5;5;71;Toyota GR86;17;46:45.378;+6.291;+0.692;16;2:29.061;132.1"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\23_AnalysisEnduranceWithSections_ Race 2_Anonymized.CSV",
+    "name": "23_AnalysisEnduranceWithSections_ Race 2_Anonymized.CSV",
+    "size_bytes": 126505,
+    "rows": 508,
+    "cols": 1,
+    "columns": [
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed"
+    ],
+    "dtypes": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "object"
+    },
+    "missing_pct": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": {
+        "3;1;1;2:45.631;0;;44.911;0;59.447;0;1:01.273;0;118.9;2:45.631;12:17:23.892;0:44.911;0:59.447;1:01.273;204.5;;Am;;Toyota Gazoo Racing;GF;44.911;59.447;61.273;;;;44.911;23.544;1:08.455;35.903;1:44.358;29.414;2:13.772;31.859;2:45.631": 1,
+        "3;1;2;2:31.934;0;;33.831;0;58.380;0;59.723;0;129.7;5:17.565;12:19:55.826;0:33.831;0:58.380;0:59.723;203.0;;Am;;Toyota Gazoo Racing;GF;33.831;58.38;59.723;21.134;21.134;12.697;33.831;22.882;56.713;35.498;1:32.211;28.809;2:01.020;30.914;2:31.934": 1,
+        "3;1;3;2:31.997;0;;32.839;0;59.550;0;59.608;2;129.6;7:49.562;12:22:27.823;0:32.839;0:59.550;0:59.608;200.0;;Am;;Toyota Gazoo Racing;GF;32.839;59.55;59.608;20.336;20.336;12.503;32.839;23.879;56.718;35.671;1:32.389;28.623;2:01.012;30.985;2:31.997": 1,
+        "3;1;4;2:31.729;0;;33.398;0;58.311;0;1:00.020;0;129.8;10:21.291;12:24:59.552;0:33.398;0:58.311;1:00.020;201.5;;Am;;Toyota Gazoo Racing;GF;33.398;58.311;60.02;20.658;20.658;12.74;33.398;22.750;56.148;35.561;1:31.709;29.061;2:00.770;30.959;2:31.729": 1,
+        "3;1;5;2:30.918;0;;33.162;0;58.133;0;59.623;0;130.5;12:52.209;12:27:30.470;0:33.162;0:58.133;0:59.623;203.8;;Am;;Toyota Gazoo Racing;GF;33.162;58.133;59.623;20.681;20.681;12.481;33.162;22.856;56.018;35.277;1:31.295;28.86;2:00.155;30.763;2:30.918": 1
+      }
+    },
+    "head": [
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;1;2:45.631;0;;44.911;0;59.447;0;1:01.273;0;118.9;2:45.631;12:17:23.892;0:44.911;0:59.447;1:01.273;204.5;;Am;;Toyota Gazoo Racing;GF;44.911;59.447;61.273;;;;44.911;23.544;1:08.455;35.903;1:44.358;29.414;2:13.772;31.859;2:45.631"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;2;2:31.934;0;;33.831;0;58.380;0;59.723;0;129.7;5:17.565;12:19:55.826;0:33.831;0:58.380;0:59.723;203.0;;Am;;Toyota Gazoo Racing;GF;33.831;58.38;59.723;21.134;21.134;12.697;33.831;22.882;56.713;35.498;1:32.211;28.809;2:01.020;30.914;2:31.934"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;3;2:31.997;0;;32.839;0;59.550;0;59.608;2;129.6;7:49.562;12:22:27.823;0:32.839;0:59.550;0:59.608;200.0;;Am;;Toyota Gazoo Racing;GF;32.839;59.55;59.608;20.336;20.336;12.503;32.839;23.879;56.718;35.671;1:32.389;28.623;2:01.012;30.985;2:31.997"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;4;2:31.729;0;;33.398;0;58.311;0;1:00.020;0;129.8;10:21.291;12:24:59.552;0:33.398;0:58.311;1:00.020;201.5;;Am;;Toyota Gazoo Racing;GF;33.398;58.311;60.02;20.658;20.658;12.74;33.398;22.750;56.148;35.561;1:31.709;29.061;2:00.770;30.959;2:31.729"
+      },
+      {
+        "NUMBER; DRIVER_NUMBER; LAP_NUMBER; LAP_TIME; LAP_IMPROVEMENT; CROSSING_FINISH_LINE_IN_PIT; S1; S1_IMPROVEMENT; S2; S2_IMPROVEMENT; S3; S3_IMPROVEMENT; KPH; ELAPSED; HOUR;S1_LARGE;S2_LARGE;S3_LARGE;TOP_SPEED;PIT_TIME;CLASS;GROUP;MANUFACTURER;FLAG_AT_FL;S1_SECONDS;S2_SECONDS;S3_SECONDS;IM1a_time;IM1a_elapsed;IM1_time;IM1_elapsed;IM2a_time;IM2a_elapsed;IM2_time;IM2_elapsed;IM3a_time;IM3a_elapsed;FL_time;FL_elapsed": "3;1;5;2:30.918;0;;33.162;0;58.133;0;59.623;0;130.5;12:52.209;12:27:30.470;0:33.162;0:58.133;0:59.623;203.8;;Am;;Toyota Gazoo Racing;GF;33.162;58.133;59.623;20.681;20.681;12.481;33.162;22.856;56.018;35.277;1:31.295;28.86;2:00.155;30.763;2:30.918"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\26_Weather_ Race 2_Anonymized.CSV",
+    "name": "26_Weather_ Race 2_Anonymized.CSV",
+    "size_bytes": 3078,
+    "rows": 45,
+    "cols": 1,
+    "columns": [
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN"
+    ],
+    "dtypes": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "object"
+    },
+    "missing_pct": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": {
+        "1745774093;4/27/2025 5:14:53 PM;27.42;39.5;64.02;995.8;5.04;202;0": 1,
+        "1745774155;4/27/2025 5:15:55 PM;27.5;39.4;63.83;995.9;14.04;172;0": 1,
+        "1745774218;4/27/2025 5:16:58 PM;27.49;39.4;63.81;995.8;7.92;199;0": 1,
+        "1745774281;4/27/2025 5:18:01 PM;27.51;39.5;63.48;995.8;12.24;179;0": 1,
+        "1745774343;4/27/2025 5:19:03 PM;27.6;39.5;63.15;995.8;14.76;160;0": 1
+      }
+    },
+    "head": [
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745774093;4/27/2025 5:14:53 PM;27.42;39.5;64.02;995.8;5.04;202;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745774155;4/27/2025 5:15:55 PM;27.5;39.4;63.83;995.9;14.04;172;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745774218;4/27/2025 5:16:58 PM;27.49;39.4;63.81;995.8;7.92;199;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745774281;4/27/2025 5:18:01 PM;27.51;39.5;63.48;995.8;12.24;179;0"
+      },
+      {
+        "TIME_UTC_SECONDS;TIME_UTC_STR;AIR_TEMP;TRACK_TEMP;HUMIDITY;PRESSURE;WIND_SPEED;WIND_DIRECTION;RAIN": "1745774343;4/27/2025 5:19:03 PM;27.6;39.5;63.15;995.8;14.76;160;0"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\99_Best 10 Laps By Driver_ Race 2_Anonymized.CSV",
+    "name": "99_Best 10 Laps By Driver_ Race 2_Anonymized.CSV",
+    "size_bytes": 4789,
+    "rows": 31,
+    "cols": 1,
+    "columns": [
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE"
+    ],
+    "dtypes": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "object"
+    },
+    "missing_pct": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": 0.0
+    },
+    "numeric_describe": {},
+    "top_values": {
+      "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": {
+        "2;Toyota GR86;Am;14;2:28.609;2;2:28.684;11;2:28.942;6;2:29.489;3;2:29.715;5;2:29.849;10;2:32.173;12;2:32.584;7;3:23.385;9;3:30.403;8;2:41.383": 1,
+        "3;Toyota GR86;Am;16;2:30.691;6;2:31.053;15;2:31.556;5;2:31.614;10;2:31.846;2;2:31.941;4;2:31.963;3;2:32.022;16;2:33.712;12;2:34.081;7;2:32.047": 1,
+        "3;Toyota GR86;Am;17;2:30.516;6;2:30.918;5;2:31.348;15;2:31.502;10;2:31.680;16;2:31.729;4;2:31.934;2;2:31.997;3;2:33.826;11;2:34.287;7;2:31.973": 1,
+        "5;Toyota GR86;Am;17;2:29.848;6;2:29.887;5;2:30.406;4;2:30.572;3;2:30.820;2;2:31.370;16;2:31.501;12;2:31.721;15;2:32.574;7;2:32.622;11;2:31.132": 1,
+        "7;Toyota GR86;Am;17;2:28.112;5;2:28.185;3;2:28.204;11;2:28.266;16;2:28.272;4;2:28.288;10;2:28.330;6;2:28.568;15;2:28.809;2;2:28.843;17;2:28.387": 1
+      }
+    },
+    "head": [
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "2;Toyota GR86;Am;14;2:28.609;2;2:28.684;11;2:28.942;6;2:29.489;3;2:29.715;5;2:29.849;10;2:32.173;12;2:32.584;7;3:23.385;9;3:30.403;8;2:41.383"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "3;Toyota GR86;Am;16;2:30.691;6;2:31.053;15;2:31.556;5;2:31.614;10;2:31.846;2;2:31.941;4;2:31.963;3;2:32.022;16;2:33.712;12;2:34.081;7;2:32.047"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "3;Toyota GR86;Am;17;2:30.516;6;2:30.918;5;2:31.348;15;2:31.502;10;2:31.680;16;2:31.729;4;2:31.934;2;2:31.997;3;2:33.826;11;2:34.287;7;2:31.973"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "5;Toyota GR86;Am;17;2:29.848;6;2:29.887;5;2:30.406;4;2:30.572;3;2:30.820;2;2:31.370;16;2:31.501;12;2:31.721;15;2:32.574;7;2:32.622;11;2:31.132"
+      },
+      {
+        "NUMBER;VEHICLE;CLASS;TOTAL_DRIVER_LAPS;BESTLAP_1;BESTLAP_1_LAPNUM;BESTLAP_2;BESTLAP_2_LAPNUM;BESTLAP_3;BESTLAP_3_LAPNUM;BESTLAP_4;BESTLAP_4_LAPNUM;BESTLAP_5;BESTLAP_5_LAPNUM;BESTLAP_6;BESTLAP_6_LAPNUM;BESTLAP_7;BESTLAP_7_LAPNUM;BESTLAP_8;BESTLAP_8_LAPNUM;BESTLAP_9;BESTLAP_9_LAPNUM;BESTLAP_10;BESTLAP_10_LAPNUM;AVERAGE": "7;Toyota GR86;Am;17;2:28.112;5;2:28.185;3;2:28.204;11;2:28.266;16;2:28.272;4;2:28.288;10;2:28.330;6;2:28.568;15;2:28.809;2;2:28.843;17;2:28.387"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\COTA_lap_end_time_R2.csv",
+    "name": "COTA_lap_end_time_R2.csv",
+    "size_bytes": 89011,
+    "rows": 637,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "expire_at",
+      "value"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "expire_at": "float64",
+      "value": "object"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "expire_at": 100.0,
+      "value": 0.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 637.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 637.0,
+        "mean": 1861.010989010989,
+        "std": 7570.280611446485,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 637
+      },
+      "meta_time": {
+        "2025-04-27T17:24:46.946Z": 3,
+        "2025-04-27T17:11:26.087Z": 3,
+        "2025-04-27T17:11:18.538Z": 2,
+        "2025-04-27T17:50:24.647Z": 2,
+        "2025-04-27T17:32:26.268Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 637
+      },
+      "meta_session": {
+        "R2": 637
+      },
+      "timestamp": {
+        "2025-04-27T17:44:26.341Z": 2,
+        "2025-04-27T17:17:29.702Z": 2,
+        "2025-04-27T17:14:51.496Z": 2,
+        "2025-04-27T17:35:56.496Z": 1,
+        "2025-04-27T17:11:22.092Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 24,
+        "GR86-036-98": 24,
+        "GR86-035-11": 24,
+        "GR86-015-31": 22,
+        "GR86-012-8": 22
+      },
+      "value": {
+        "2025-04-27T17:44:26.341Z": 2,
+        "2025-04-27T17:17:29.702Z": 2,
+        "2025-04-27T17:14:51.496Z": 2,
+        "2025-04-27T17:35:56.496Z": 1,
+        "2025-04-27T17:11:22.092Z": 1
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:56.277Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:55.061Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 0,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:57:55.061Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:31.428Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:21.456Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 16,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:57:21.456Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:54:00.120Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:53:59.695Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 15,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:53:59.695Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.648Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.631Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 14,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:50:23.631Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.647Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.617Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 15,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:50:23.617Z"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\COTA_lap_start_time_R2.csv",
+    "name": "COTA_lap_start_time_R2.csv",
+    "size_bytes": 88932,
+    "rows": 637,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "expire_at",
+      "value"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "expire_at": "float64",
+      "value": "object"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "expire_at": 100.0,
+      "value": 0.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 637.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 637.0,
+        "mean": 524.3139717425431,
+        "std": 4075.2334684837865,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 637
+      },
+      "meta_time": {
+        "2025-04-27T17:32:26.268Z": 2,
+        "2025-04-27T17:11:39.781Z": 2,
+        "2025-04-27T17:44:27.178Z": 2,
+        "2025-04-27T17:32:23.954Z": 2,
+        "2025-04-27T17:54:08.099Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 637
+      },
+      "meta_session": {
+        "R2": 637
+      },
+      "timestamp": {
+        "2025-04-27T17:14:51.497Z": 2,
+        "2025-04-27T17:17:29.703Z": 2,
+        "2025-04-27T17:11:22.093Z": 1,
+        "2025-04-27T17:57:55.062Z": 1,
+        "2025-04-27T17:57:21.457Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 24,
+        "GR86-036-98": 24,
+        "GR86-035-11": 24,
+        "GR86-015-31": 22,
+        "GR86-012-8": 22
+      },
+      "value": {
+        "2025-04-27T17:14:51.497Z": 2,
+        "2025-04-27T17:17:29.703Z": 2,
+        "2025-04-27T17:11:22.093Z": 1,
+        "2025-04-27T17:57:55.062Z": 1,
+        "2025-04-27T17:57:21.457Z": 1
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:56.278Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:55.062Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 32768,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:57:55.062Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:31.428Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:21.457Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 0,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:57:21.457Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:54:00.120Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:53:59.696Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 16,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:53:59.696Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.731Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.632Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 15,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:50:23.632Z"
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.648Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.617Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 14,
+        "expire_at": NaN,
+        "value": "2025-04-27T17:50:23.617Z"
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\COTA_lap_time_R2.csv",
+    "name": "COTA_lap_time_R2.csv",
+    "size_bytes": 76143,
+    "rows": 637,
+    "cols": 10,
+    "columns": [
+      "meta_source",
+      "meta_time",
+      "meta_event",
+      "meta_session",
+      "timestamp",
+      "vehicle_id",
+      "outing",
+      "lap",
+      "value",
+      "expire_at"
+    ],
+    "dtypes": {
+      "meta_source": "object",
+      "meta_time": "object",
+      "meta_event": "object",
+      "meta_session": "object",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "outing": "int64",
+      "lap": "int64",
+      "value": "int64",
+      "expire_at": "float64"
+    },
+    "missing_pct": {
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "outing": 0.0,
+      "lap": 0.0,
+      "value": 0.0,
+      "expire_at": 100.0
+    },
+    "numeric_describe": {
+      "outing": {
+        "count": 637.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "lap": {
+        "count": 637.0,
+        "mean": 1861.010989010989,
+        "std": 7570.280611446485,
+        "min": 0.0,
+        "25%": 5.0,
+        "50%": 10.0,
+        "75%": 15.0,
+        "max": 32768.0
+      },
+      "value": {
+        "count": 637.0,
+        "mean": 235957.95761381477,
+        "std": 365728.70010736946,
+        "min": 0.0,
+        "25%": 150477.0,
+        "50%": 153540.0,
+        "75%": 202682.0,
+        "max": 3451937.0
+      },
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      }
+    },
+    "top_values": {
+      "meta_source": {
+        "kafka:gr-raw": 637
+      },
+      "meta_time": {
+        "2025-04-27T17:44:27.178Z": 3,
+        "2025-04-27T17:11:26.087Z": 3,
+        "2025-04-27T17:32:27.391Z": 3,
+        "2025-04-27T17:24:46.945Z": 2,
+        "2025-04-27T17:11:18.538Z": 2
+      },
+      "meta_event": {
+        "I_R02_2025-04-27": 637
+      },
+      "meta_session": {
+        "R2": 637
+      },
+      "timestamp": {
+        "2025-04-27T17:44:26.341Z": 2,
+        "2025-04-27T17:17:29.702Z": 2,
+        "2025-04-27T17:14:51.496Z": 2,
+        "2025-04-27T17:35:56.496Z": 1,
+        "2025-04-27T17:11:22.092Z": 1
+      },
+      "vehicle_id": {
+        "GR86-006-7": 24,
+        "GR86-036-98": 24,
+        "GR86-035-11": 24,
+        "GR86-015-31": 22,
+        "GR86-012-8": 22
+      }
+    },
+    "head": [
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:56.277Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:55.061Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 0,
+        "value": 33608,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:57:31.428Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:57:21.456Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 16,
+        "value": 181313,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:54:00.120Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:53:59.695Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 15,
+        "value": 216035,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.648Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.631Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 14,
+        "value": 44,
+        "expire_at": NaN
+      },
+      {
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:50:24.647Z",
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "timestamp": "2025-04-27T17:50:23.615Z",
+        "vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "lap": 14,
+        "value": 214361,
+        "expire_at": NaN
+      }
+    ]
+  },
+  {
+    "path": "COTA\\Race 2\\R2_cota_telemetry_data.csv",
+    "name": "R2_cota_telemetry_data.csv",
+    "size_bytes": 2247350515,
+    "warning": "Failed full read: Error tokenizing data. C error: out of memory; used sample nrows=1000",
+    "rows": 1000,
+    "cols": 13,
+    "columns": [
+      "expire_at",
+      "lap",
+      "meta_event",
+      "meta_session",
+      "meta_source",
+      "meta_time",
+      "original_vehicle_id",
+      "outing",
+      "telemetry_name",
+      "telemetry_value",
+      "timestamp",
+      "vehicle_id",
+      "vehicle_number"
+    ],
+    "dtypes": {
+      "expire_at": "float64",
+      "lap": "int64",
+      "meta_event": "object",
+      "meta_session": "object",
+      "meta_source": "object",
+      "meta_time": "object",
+      "original_vehicle_id": "object",
+      "outing": "int64",
+      "telemetry_name": "object",
+      "telemetry_value": "float64",
+      "timestamp": "object",
+      "vehicle_id": "object",
+      "vehicle_number": "int64"
+    },
+    "missing_pct": {
+      "expire_at": 100.0,
+      "lap": 0.0,
+      "meta_event": 0.0,
+      "meta_session": 0.0,
+      "meta_source": 0.0,
+      "meta_time": 0.0,
+      "original_vehicle_id": 0.0,
+      "outing": 0.0,
+      "telemetry_name": 0.0,
+      "telemetry_value": 0.0,
+      "timestamp": 0.0,
+      "vehicle_id": 0.0,
+      "vehicle_number": 0.0
+    },
+    "numeric_describe": {
+      "expire_at": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      },
+      "lap": {
+        "count": 1000.0,
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "25%": 1.0,
+        "50%": 1.0,
+        "75%": 1.0,
+        "max": 1.0
+      },
+      "outing": {
+        "count": 1000.0,
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 0.0,
+        "max": 0.0
+      },
+      "telemetry_value": {
+        "count": 1000.0,
+        "mean": 184.930885,
+        "std": 1028.5879386778815,
+        "min": -5.1000000000000005,
+        "25%": 0.0,
+        "50%": 0.018000000000000002,
+        "75%": 2.0,
+        "max": 7230.0
+      },
+      "vehicle_number": {
+        "count": 1000.0,
+        "mean": 2.0,
+        "std": 0.0,
+        "min": 2.0,
+        "25%": 2.0,
+        "50%": 2.0,
+        "75%": 2.0,
+        "max": 2.0
+      }
+    },
+    "top_values": {
+      "meta_event": {
+        "I_R02_2025-04-27": 1000
+      },
+      "meta_session": {
+        "R2": 1000
+      },
+      "meta_source": {
+        "kafka:gr-raw": 1000
+      },
+      "meta_time": {
+        "2025-04-27T17:14:47.529Z": 44,
+        "2025-04-27T17:14:50.577Z": 44,
+        "2025-04-27T17:14:47.528Z": 44,
+        "2025-04-27T17:14:50.569Z": 37,
+        "2025-04-27T17:14:50.683Z": 37
+      },
+      "original_vehicle_id": {
+        "GR86-002-2": 1000
+      },
+      "telemetry_name": {
+        "accx_can": 136,
+        "accy_can": 135,
+        "ath": 135,
+        "pbrake_r": 135,
+        "pbrake_f": 135
+      },
+      "timestamp": {
+        "2025-04-25T00:31:46.408Z": 16,
+        "2025-04-25T00:31:46.142Z": 14,
+        "2025-04-25T00:31:45.038Z": 14,
+        "2025-04-25T00:31:49.274Z": 9,
+        "2025-04-25T00:31:49.494Z": 9
+      },
+      "vehicle_id": {
+        "GR86-002-2": 1000
+      }
+    },
+    "head": [
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:14:58.153Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "accx_can",
+        "telemetry_value": 0.229,
+        "timestamp": "2025-04-25T00:31:49.672Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:14:58.153Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "accy_can",
+        "telemetry_value": -0.027,
+        "timestamp": "2025-04-25T00:31:49.672Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:14:58.153Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "ath",
+        "telemetry_value": 100.01,
+        "timestamp": "2025-04-25T00:31:49.672Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:14:58.153Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "pbrake_r",
+        "telemetry_value": 0.0,
+        "timestamp": "2025-04-25T00:31:49.672Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      },
+      {
+        "expire_at": NaN,
+        "lap": 1,
+        "meta_event": "I_R02_2025-04-27",
+        "meta_session": "R2",
+        "meta_source": "kafka:gr-raw",
+        "meta_time": "2025-04-27T17:14:58.153Z",
+        "original_vehicle_id": "GR86-002-2",
+        "outing": 0,
+        "telemetry_name": "pbrake_f",
+        "telemetry_value": 0.0,
+        "timestamp": "2025-04-25T00:31:49.672Z",
+        "vehicle_id": "GR86-002-2",
+        "vehicle_number": 2
+      }
+    ]
+  }
+]

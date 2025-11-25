@@ -1,0 +1,84 @@
+======================================================================
+AI COACHING SUMMARY REPORT
+======================================================================
+
+Driver: Car-2
+  Status: High Opportunity
+  Potential Gain: 19.72s
+  Rating: Machine-like
+  AI Summary: Driver of Car-2 is in a strong position, but needs to focus on brake control and throttle consistency to reach their full potential.
+  Key Strength: Consistency
+  Action: Work on smoothing out brake application to reduce brake wear and improve lap times.
+----------------------------------------
+Driver: Car-5
+  Status: High Opportunity
+  Potential Gain: 19.21s
+  Rating: Machine-like
+  AI Summary: Driver of Car-5 is showing great potential, but needs to refine their braking technique to reach the theoretical best.
+  Key Strength: Potential
+  Action: Work on optimizing brake application to reduce lap time.
+----------------------------------------
+Driver: Car-46
+  Status: High Opportunity
+  Potential Gain: 13.96s
+  Rating: Machine-like
+  AI Summary: Driver of Car-46 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.
+  Key Strength: Consistency
+  Action: Work on maintaining consistent speeds through corners.
+----------------------------------------
+Driver: Car-7
+  Status: High Opportunity
+  Potential Gain: 13.85s
+  Rating: Machine-like
+  AI Summary: Driver of Car-7 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.
+  Key Strength: Consistency
+  Action: Work on maintaining consistent speeds through corners.
+----------------------------------------
+Driver: Car-13
+  Status: High Opportunity
+  Potential Gain: 13.83s
+  Rating: Machine-like
+  AI Summary: Driver of Car-13 is in a good position, but needs to focus on developing a consistent braking technique to reach their full potential.
+  Key Strength: Potential
+  Action: Work on optimizing brake application to reduce lap time.
+----------------------------------------
+Driver: Car-55
+  Status: High Opportunity
+  Potential Gain: 13.77s
+  Rating: Machine-like
+  AI Summary: Driver of Car-55 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.
+  Key Strength: Consistency
+  Action: Work on maintaining consistent speeds through corners.
+----------------------------------------
+Driver: Car-21
+  Status: High Opportunity
+  Potential Gain: 13.76s
+  Rating: Machine-like
+  AI Summary: Driver of Car-21 is showing great potential, but needs to refine their braking technique to reach the theoretical best.
+  Key Strength: Potential
+  Action: Work on optimizing brake application to reduce lap time.
+----------------------------------------
+Driver: Car-16
+  Status: High Opportunity
+  Potential Gain: 13.69s
+  Rating: Machine-like
+  AI Summary: Driver of Car-16 is in a good position, but needs to focus on developing a consistent braking technique to reach their full potential.
+  Key Strength: Potential
+  Action: Work on optimizing brake application to reduce lap time.
+----------------------------------------
+Driver: Car-31
+  Status: Good
+  Potential Gain: nans
+  Rating: Machine-like
+  AI Summary: Driver of Car-31 is in a good position, but needs more data to provide specific coaching advice.
+  Key Strength: Potential
+  Action: Work on collecting more data to provide specific coaching advice.
+----------------------------------------
+Driver: Car-72
+  Status: High Opportunity
+  Potential Gain: 13.73s
+  Rating: Machine-like
+  AI Summary: Driver of Car-72 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.
+  Key Strength: Consistency
+  Action: Work on maintaining consistent speeds through corners.
+----------------------------------------

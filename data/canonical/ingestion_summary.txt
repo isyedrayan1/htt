@@ -1,0 +1,8 @@
+COTA Data Ingestion Summary
+============================================================
+
+Drivers: 31
+Total Laps: 1,702
+Sector Records: 994
+Weather Records: 89
+Race Results: 62

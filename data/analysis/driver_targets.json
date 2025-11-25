@@ -1,0 +1,452 @@
+{
+  "Car-3": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.857,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.9306,
+      "s2": NaN,
+      "s3": 59.608
+    },
+    "bests": {
+      "s1": 32.666,
+      "s2": 57.583,
+      "s3": 59.608
+    }
+  },
+  "Car-7": {
+    "siwtl_lap": 147.8624,
+    "theoretical_best": 147.794,
+    "potential_gain": 16.789776470588208,
+    "targets": {
+      "s1": 32.465399999999995,
+      "s2": 56.521,
+      "s3": 58.876
+    },
+    "bests": {
+      "s1": 32.397,
+      "s2": 56.521,
+      "s3": 58.876
+    }
+  },
+  "Car-8": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.4914,
+      "s2": 58.737,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 32.959,
+      "s2": 58.737,
+      "s3": NaN
+    }
+  },
+  "Car-11": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 150.773,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.264199999999995,
+      "s2": NaN,
+      "s3": 59.704
+    },
+    "bests": {
+      "s1": 33.118,
+      "s2": 57.951,
+      "s3": 59.704
+    }
+  },
+  "Car-13": {
+    "siwtl_lap": 147.8922,
+    "theoretical_best": 147.836,
+    "potential_gain": 16.7928,
+    "targets": {
+      "s1": 32.443200000000004,
+      "s2": 56.63,
+      "s3": 58.819
+    },
+    "bests": {
+      "s1": 32.387,
+      "s2": 56.63,
+      "s3": 58.819
+    }
+  },
+  "Car-14": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.743,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.817,
+      "s2": NaN,
+      "s3": 59.466
+    },
+    "bests": {
+      "s1": 32.654,
+      "s2": 57.623,
+      "s3": 59.466
+    }
+  },
+  "Car-15": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.214,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.7204,
+      "s2": NaN,
+      "s3": 59.66
+    },
+    "bests": {
+      "s1": 32.34,
+      "s2": 57.214,
+      "s3": 59.66
+    }
+  },
+  "Car-16": {
+    "siwtl_lap": 148.4564,
+    "theoretical_best": 148.25900000000001,
+    "potential_gain": 16.513835294117683,
+    "targets": {
+      "s1": 32.349399999999996,
+      "s2": 56.791,
+      "s3": 59.316
+    },
+    "bests": {
+      "s1": 32.152,
+      "s2": 56.791,
+      "s3": 59.316
+    }
+  },
+  "Car-18": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.16,
+      "s2": 58.123,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 33.042,
+      "s2": 58.123,
+      "s3": NaN
+    }
+  },
+  "Car-21": {
+    "siwtl_lap": 148.5336,
+    "theoretical_best": 148.318,
+    "potential_gain": 16.447929411764676,
+    "targets": {
+      "s1": 32.4826,
+      "s2": 56.926,
+      "s3": 59.125
+    },
+    "bests": {
+      "s1": 32.267,
+      "s2": 56.926,
+      "s3": 59.125
+    }
+  },
+  "Car-31": {
+    "siwtl_lap": 149.4212,
+    "theoretical_best": 149.32899999999998,
+    "potential_gain": 16.283505882352955,
+    "targets": {
+      "s1": 32.6722,
+      "s2": 57.513,
+      "s3": 59.236
+    },
+    "bests": {
+      "s1": 32.58,
+      "s2": 57.513,
+      "s3": 59.236
+    }
+  },
+  "Car-41": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 148.511,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.5476,
+      "s2": NaN,
+      "s3": 58.899
+    },
+    "bests": {
+      "s1": 32.358,
+      "s2": 57.254,
+      "s3": 58.899
+    }
+  },
+  "Car-46": {
+    "siwtl_lap": 148.0346,
+    "theoretical_best": 147.977,
+    "potential_gain": 17.10204705882353,
+    "targets": {
+      "s1": 32.4736,
+      "s2": 56.833,
+      "s3": 58.728
+    },
+    "bests": {
+      "s1": 32.416,
+      "s2": 56.833,
+      "s3": 58.728
+    }
+  },
+  "Car-47": {
+    "siwtl_lap": 149.149,
+    "theoretical_best": 149.05,
+    "potential_gain": 13.410500000000013,
+    "targets": {
+      "s1": 32.493,
+      "s2": 57.198,
+      "s3": 59.458
+    },
+    "bests": {
+      "s1": 32.394,
+      "s2": 57.198,
+      "s3": 59.458
+    }
+  },
+  "Car-51": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.0786,
+      "s2": 57.562,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 32.745,
+      "s2": 57.562,
+      "s3": NaN
+    }
+  },
+  "Car-55": {
+    "siwtl_lap": 148.5616,
+    "theoretical_best": 148.459,
+    "potential_gain": 16.48269411764707,
+    "targets": {
+      "s1": 32.6636,
+      "s2": 56.934,
+      "s3": 58.964
+    },
+    "bests": {
+      "s1": 32.561,
+      "s2": 56.934,
+      "s3": 58.964
+    }
+  },
+  "Car-57": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.281600000000005,
+      "s2": 58.168,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 33.015,
+      "s2": 58.168,
+      "s3": NaN
+    }
+  },
+  "Car-71": {
+    "siwtl_lap": 148.95819999999998,
+    "theoretical_best": 148.736,
+    "potential_gain": 16.064035294117673,
+    "targets": {
+      "s1": 32.5952,
+      "s2": 57.062,
+      "s3": 59.301
+    },
+    "bests": {
+      "s1": 32.373,
+      "s2": 57.062,
+      "s3": 59.301
+    }
+  },
+  "Car-72": {
+    "siwtl_lap": 148.6582,
+    "theoretical_best": 148.5,
+    "potential_gain": 16.269329411764716,
+    "targets": {
+      "s1": 32.5292,
+      "s2": 57.028,
+      "s3": 59.101
+    },
+    "bests": {
+      "s1": 32.371,
+      "s2": 57.028,
+      "s3": 59.101
+    }
+  },
+  "Car-73": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.061,
+      "s2": NaN,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 32.818,
+      "s2": 57.783,
+      "s3": NaN
+    }
+  },
+  "Car-78": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 148.961,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.6258,
+      "s2": NaN,
+      "s3": 59.219
+    },
+    "bests": {
+      "s1": 32.53,
+      "s2": 57.212,
+      "s3": 59.219
+    }
+  },
+  "Car-80": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.7716,
+      "s2": 58.078,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 32.669,
+      "s2": 58.078,
+      "s3": NaN
+    }
+  },
+  "Car-86": {
+    "siwtl_lap": NaN,
+    "theoretical_best": NaN,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 33.310199999999995,
+      "s2": 58.36,
+      "s3": NaN
+    },
+    "bests": {
+      "s1": 33.035,
+      "s2": 58.36,
+      "s3": NaN
+    }
+  },
+  "Car-88": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.059,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.5658,
+      "s2": NaN,
+      "s3": 59.411
+    },
+    "bests": {
+      "s1": 32.404,
+      "s2": 57.244,
+      "s3": 59.411
+    }
+  },
+  "Car-89": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.111,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.7244,
+      "s2": NaN,
+      "s3": 59.324
+    },
+    "bests": {
+      "s1": 32.403,
+      "s2": 57.384,
+      "s3": 59.324
+    }
+  },
+  "Car-93": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 149.83,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.655,
+      "s2": NaN,
+      "s3": 59.496
+    },
+    "bests": {
+      "s1": 32.586,
+      "s2": 57.748,
+      "s3": 59.496
+    }
+  },
+  "Car-98": {
+    "siwtl_lap": NaN,
+    "theoretical_best": 148.874,
+    "potential_gain": NaN,
+    "targets": {
+      "s1": 32.713,
+      "s2": NaN,
+      "s3": 58.998
+    },
+    "bests": {
+      "s1": 32.453,
+      "s2": 57.423,
+      "s3": 58.998
+    }
+  },
+  "Car-113": {
+    "siwtl_lap": 149.78979999999999,
+    "theoretical_best": 149.516,
+    "potential_gain": 15.769258823529412,
+    "targets": {
+      "s1": 32.8958,
+      "s2": 57.467,
+      "s3": 59.427
+    },
+    "bests": {
+      "s1": 32.622,
+      "s2": 57.467,
+      "s3": 59.427
+    }
+  },
+  "Car-2": {
+    "siwtl_lap": 148.4384,
+    "theoretical_best": 148.382,
+    "potential_gain": 19.71588571428569,
+    "targets": {
+      "s1": 32.3834,
+      "s2": 56.755,
+      "s3": 59.3
+    },
+    "bests": {
+      "s1": 32.327,
+      "s2": 56.755,
+      "s3": 59.3
+    }
+  },
+  "Car-5": {
+    "siwtl_lap": 149.1842,
+    "theoretical_best": 148.907,
+    "potential_gain": 19.205371428571397,
+    "targets": {
+      "s1": 32.6732,
+      "s2": 57.451,
+      "s3": 59.06
+    },
+    "bests": {
+      "s1": 32.396,
+      "s2": 57.451,
+      "s3": 59.06
+    }
+  }
+}

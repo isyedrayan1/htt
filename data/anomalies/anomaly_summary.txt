@@ -1,0 +1,38 @@
+======================================================================
+ANOMALY DETECTION SUMMARY
+======================================================================
+
+Total Anomalies Detected: 119
+
+By Type:
+  driver_mistake        113 ( 95.0%)
+  mixed                   5 (  4.2%)
+  car_degradation         1 (  0.8%)
+
+By Category:
+  brake_spike                      29
+  steering_correction              29
+  throttle_drop                    20
+  braking_g_spike                  17
+  lateral_g_spike                  14
+  lap_time_spike                    4
+  lap_time_spike+consistency_degradation    1
+  brake_spike+brake_fade            1
+  throttle_drop+brake_fade          1
+  steering_correction+brake_fade    1
+  braking_g_spike+brake_fade        1
+  consistency_degradation           1
+
+By Severity:
+  Average severity: 8.72/10
+  Max severity: 10.00/10
+  High severity (>7): 91
+
+Top 10 Drivers by Anomalies:
+  Car #  5:  98 anomalies (94 mistakes, 4 degradation)
+  Car #113:  15 anomalies (15 mistakes, 0 degradation)
+  Car # 47:   2 anomalies (2 mistakes, 0 degradation)
+  Car #  3:   1 anomalies (1 mistakes, 0 degradation)
+  Car # 51:   1 anomalies (0 mistakes, 1 degradation)
+  Car # 72:   1 anomalies (1 mistakes, 0 degradation)
+  Car # 98:   1 anomalies (0 mistakes, 1 degradation)

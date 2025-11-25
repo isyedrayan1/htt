@@ -1,0 +1,372 @@
+{
+  "Car-2": {
+    "vehicle_id": "Car-2",
+    "evidence": {
+      "vehicle_id": "Car-2",
+      "potential": {
+        "potential_gain_sec": 19.72,
+        "achievability_score": 1.0,
+        "status": "High Opportunity",
+        "target_lap": 148.44,
+        "theoretical_best": 148.38
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-2 is in a strong position, but needs to focus on brake control and throttle consistency to reach their full potential.",
+      "key_strength": "Consistency",
+      "primary_weakness": "Brake and Throttle Control",
+      "actionable_advice": [
+        "Work on smoothing out brake application to reduce brake wear and improve lap times.",
+        "Practice throttle control to maintain consistent speeds through corners."
+      ],
+      "drill": "Focus on brake and throttle control in the next practice session."
+    }
+  },
+  "Car-5": {
+    "vehicle_id": "Car-5",
+    "evidence": {
+      "vehicle_id": "Car-5",
+      "potential": {
+        "potential_gain_sec": 19.21,
+        "achievability_score": 1.002,
+        "status": "High Opportunity",
+        "target_lap": 149.18,
+        "theoretical_best": 148.91
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-5 is showing great potential, but needs to refine their braking technique to reach the theoretical best.",
+      "key_strength": "Potential",
+      "primary_weakness": "Braking Technique",
+      "actionable_advice": [
+        "Work on optimizing brake application to reduce lap time.",
+        "Practice braking in different corners to develop a consistent technique."
+      ],
+      "drill": "Focus on braking technique in the next practice session."
+    }
+  },
+  "Car-46": {
+    "vehicle_id": "Car-46",
+    "evidence": {
+      "vehicle_id": "Car-46",
+      "potential": {
+        "potential_gain_sec": 13.96,
+        "achievability_score": 1.0,
+        "status": "High Opportunity",
+        "target_lap": 148.25,
+        "theoretical_best": 148.22
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-46 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.",
+      "key_strength": "Consistency",
+      "primary_weakness": "Speed Consistency",
+      "actionable_advice": [
+        "Work on maintaining consistent speeds through corners.",
+        "Practice throttle control to improve acceleration out of turns."
+      ],
+      "drill": "Focus on speed consistency in the next practice session."
+    }
+  },
+  "Car-13": {
+    "vehicle_id": "Car-13",
+    "evidence": {
+      "vehicle_id": "Car-13",
+      "potential": {
+        "potential_gain_sec": 13.83,
+        "achievability_score": 1.001,
+        "status": "High Opportunity",
+        "target_lap": 148.54,
+        "theoretical_best": 148.44
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-13 is in a good position, but needs to focus on developing a consistent braking technique to reach their full potential.",
+      "key_strength": "Potential",
+      "primary_weakness": "Braking Technique",
+      "actionable_advice": [
+        "Work on optimizing brake application to reduce lap time.",
+        "Practice braking in different corners to develop a consistent technique."
+      ],
+      "drill": "Focus on braking technique in the next practice session."
+    }
+  },
+  "Car-7": {
+    "vehicle_id": "Car-7",
+    "evidence": {
+      "vehicle_id": "Car-7",
+      "potential": {
+        "potential_gain_sec": 13.85,
+        "achievability_score": 1.0,
+        "status": "High Opportunity",
+        "target_lap": 148.4,
+        "theoretical_best": 148.36
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-7 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.",
+      "key_strength": "Consistency",
+      "primary_weakness": "Speed Consistency",
+      "actionable_advice": [
+        "Work on maintaining consistent speeds through corners.",
+        "Practice throttle control to improve acceleration out of turns."
+      ],
+      "drill": "Focus on speed consistency in the next practice session."
+    }
+  },
+  "Car-16": {
+    "vehicle_id": "Car-16",
+    "evidence": {
+      "vehicle_id": "Car-16",
+      "potential": {
+        "potential_gain_sec": 13.69,
+        "achievability_score": 1.0,
+        "status": "High Opportunity",
+        "target_lap": 148.57,
+        "theoretical_best": 148.53
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-16 is in a good position, but needs to focus on developing a consistent braking technique to reach their full potential.",
+      "key_strength": "Potential",
+      "primary_weakness": "Braking Technique",
+      "actionable_advice": [
+        "Work on optimizing brake application to reduce lap time.",
+        "Practice braking in different corners to develop a consistent technique."
+      ],
+      "drill": "Focus on braking technique in the next practice session."
+    }
+  },
+  "Car-55": {
+    "vehicle_id": "Car-55",
+    "evidence": {
+      "vehicle_id": "Car-55",
+      "potential": {
+        "potential_gain_sec": 13.77,
+        "achievability_score": 1.0,
+        "status": "High Opportunity",
+        "target_lap": 148.52,
+        "theoretical_best": 148.46
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-55 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.",
+      "key_strength": "Consistency",
+      "primary_weakness": "Speed Consistency",
+      "actionable_advice": [
+        "Work on maintaining consistent speeds through corners.",
+        "Practice throttle control to improve acceleration out of turns."
+      ],
+      "drill": "Focus on speed consistency in the next practice session."
+    }
+  },
+  "Car-21": {
+    "vehicle_id": "Car-21",
+    "evidence": {
+      "vehicle_id": "Car-21",
+      "potential": {
+        "potential_gain_sec": 13.76,
+        "achievability_score": 1.001,
+        "status": "High Opportunity",
+        "target_lap": 148.85,
+        "theoretical_best": 148.65
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-21 is showing great potential, but needs to refine their braking technique to reach the theoretical best.",
+      "key_strength": "Potential",
+      "primary_weakness": "Braking Technique",
+      "actionable_advice": [
+        "Work on optimizing brake application to reduce lap time.",
+        "Practice braking in different corners to develop a consistent technique."
+      ],
+      "drill": "Focus on braking technique in the next practice session."
+    }
+  },
+  "Car-31": {
+    "vehicle_id": "Car-31",
+    "evidence": {
+      "vehicle_id": "Car-31",
+      "potential": {
+        "potential_gain_sec": NaN,
+        "achievability_score": NaN,
+        "status": "Good",
+        "target_lap": NaN,
+        "theoretical_best": 150.17
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-31 is in a good position, but needs more data to provide specific coaching advice.",
+      "key_strength": "Potential",
+      "primary_weakness": "Lack of Data",
+      "actionable_advice": [
+        "Work on collecting more data to provide specific coaching advice.",
+        "Practice consistency and speed control to maintain a strong position."
+      ],
+      "drill": "Focus on data collection and consistency in the next practice session."
+    }
+  },
+  "Car-72": {
+    "vehicle_id": "Car-72",
+    "evidence": {
+      "vehicle_id": "Car-72",
+      "potential": {
+        "potential_gain_sec": 13.73,
+        "achievability_score": 1.001,
+        "status": "High Opportunity",
+        "target_lap": 148.61,
+        "theoretical_best": 148.53
+      },
+      "consistency": {
+        "mistake_count": 0,
+        "degradation_count": 0,
+        "rating": "Machine-like"
+      },
+      "technique": {
+        "key_performance_drivers": [
+          "brake_max",
+          "speed_std",
+          "throttle_max"
+        ],
+        "note": "These are the global features that determine lap time at this track."
+      },
+      "context": "Driver is competing in a GT race at COTA."
+    },
+    "ai_coaching": {
+      "summary": "Driver of Car-72 is in a good position, but needs to focus on maintaining speed consistency to reach their full potential.",
+      "key_strength": "Consistency",
+      "primary_weakness": "Speed Consistency",
+      "actionable_advice": [
+        "Work on maintaining consistent speeds through corners.",
+        "Practice throttle control to improve acceleration out of turns."
+      ],
+      "drill": "Focus on speed consistency in the next practice session."
+    }
+  }
+}

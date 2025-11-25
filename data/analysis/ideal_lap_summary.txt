@@ -1,0 +1,19 @@
+======================================================================
+SIWTL IDEAL LAP SUMMARY
+======================================================================
+
+Drivers Analyzed: 58
+
+Top 5 Drivers by Potential Gain (Most room for improvement):
+  Car #2: 19.72s gain possible (Avg: 168.15s -> SIWTL: 148.44s)
+  Car #5: 19.21s gain possible (Avg: 168.39s -> SIWTL: 149.18s)
+  Car #46: 17.10s gain possible (Avg: 165.14s -> SIWTL: 148.03s)
+  Car #13: 16.79s gain possible (Avg: 164.69s -> SIWTL: 147.89s)
+  Car #7: 16.79s gain possible (Avg: 164.65s -> SIWTL: 147.86s)
+
+Top 5 Drivers by Achievability (Most consistent):
+  Car #88: Score 1.002 (SIWTL is 100.2% of Theoretical Best)
+  Car #5: Score 1.002 (SIWTL is 100.2% of Theoretical Best)
+  Car #113: Score 1.002 (SIWTL is 100.2% of Theoretical Best)
+  Car #71: Score 1.001 (SIWTL is 100.1% of Theoretical Best)
+  Car #14: Score 1.001 (SIWTL is 100.1% of Theoretical Best)
