@@ -1,4 +1,4 @@
-# 🏎️ GR-X BLINDSPOT COMMAND
+# 🏎️ TRINITE
 ## AI-Powered Driver Coaching Platform for Toyota Gazoo Racing
 
 **Hackathon Project**: "Hack the Track" Challenge  
@@ -10,11 +10,11 @@
 ## 🚀 Quick Start (For Judges)
 
 ### Prerequisites
-- Python 3.8+
-- Node.js 16+
-- Git
+- **Python 3.8+** ([Download](https://www.python.org/downloads/))
+- **Node.js 16+** ([Download](https://nodejs.org/))
+- **Git** ([Download](https://git-scm.com/downloads))
 
-### One-Command Setup
+### One-Command Setup ⚡
 
 **Windows:**
 ```bash
@@ -27,16 +27,77 @@ chmod +x start.sh
 ./start.sh
 ```
 
-This will:
+This will automatically:
 1. ✅ Install all dependencies
 2. ✅ Start backend server (Port 8000)
 3. ✅ Start frontend server (Port 3001)
-4. ✅ Open the application automatically
+4. ✅ Open application in browser
 
-### Access Points
-- **Frontend**: http://localhost:3001
-- **Backend API**: http://localhost:8000
-- **API Documentation**: http://localhost:8000/docs
+---
+
+## 📋 Manual Setup (Step-by-Step)
+
+### Step 1: Clone the Repository
+```bash
+git clone <repository-url>
+cd trinite
+```
+
+### Step 2: Backend Setup
+
+**Open Terminal 1** (for backend):
+
+```bash
+# Navigate to backend folder
+cd backend
+
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Start backend server
+uvicorn main:app --reload --port 8000
+```
+
+**Backend will be running at**: http://localhost:8000  
+**API Documentation**: http://localhost:8000/docs
+
+### Step 3: Frontend Setup
+
+**Open Terminal 2** (for frontend):
+
+**Windows:**
+```bash
+# Navigate to frontend folder
+cd frontend
+
+# Install Node dependencies
+npm install
+
+# Start frontend server
+set PORT=3001
+npm start
+```
+
+**Linux/Mac:**
+```bash
+# Navigate to frontend folder
+cd frontend
+
+# Install Node dependencies
+npm install
+
+# Start frontend server
+export PORT=3001
+npm start
+```
+
+**Frontend will be running at**: http://localhost:3001
+
+### Step 4: Access the Application
+
+Open your browser and navigate to:
+- **Application**: http://localhost:3001
+- **API Docs**: http://localhost:8000/docs
 
 ---
 
@@ -108,23 +169,17 @@ frontend/
 
 ---
 
-## 🔧 Manual Setup (If Needed)
+## 🔧 Environment Configuration
 
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
+### Optional: Groq API Key
+
+For full AI features, create `.env` file in `backend/`:
+
+```
+GROQ_API_KEY=your_groq_api_key_here
 ```
 
-### Frontend
-```bash
-cd frontend
-npm install
-set PORT=3001  # Windows
-export PORT=3001  # Linux/Mac
-npm start
-```
+**Note**: The application works without an API key, but AI responses will use fallback logic.
 
 ---
 
@@ -164,24 +219,70 @@ npm start
 
 ---
 
-## 🔑 Environment Variables
+## 🛠️ Troubleshooting
 
-Create `.env` file in backend/:
-```
-GROQ_API_KEY=your_groq_api_key_here
+### Port Already in Use
+
+**Backend:**
+```bash
+uvicorn main:app --reload --port 8080
 ```
 
-*Note: App works without API key but AI features will use fallback responses*
+**Frontend:**
+```bash
+# Windows
+set PORT=3002
+npm start
+
+# Linux/Mac
+export PORT=3002
+npm start
+```
+
+### Python Not Found
+Ensure Python is in your PATH:
+```bash
+python --version
+# or
+python3 --version
+```
+
+### Node.js Not Found
+Ensure Node.js is installed:
+```bash
+node --version
+npm --version
+```
+
+### Dependencies Installation Fails
+
+**Backend:**
+```bash
+cd backend
+pip install --upgrade pip
+pip install -r requirements.txt --no-cache-dir
+```
+
+**Frontend:**
+```bash
+cd frontend
+rm -rf node_modules package-lock.json
+npm install
+```
 
 ---
 
 ## 📁 Documentation
 
 See `docs/` folder for:
-- Implementation plan
-- Development walkthrough
-- Task breakdown
-- Technical details
+- **PRESENTATION_PITCH.md**: 5-8 minute demo script
+- **SETUP.md**: Detailed setup instructions
+- **WALKTHROUGH.md**: Feature walkthrough
+
+See `backend/README.md` for:
+- Technical architecture details
+- Custom ML algorithms explanation
+- API endpoint documentation
 
 ---
 
@@ -192,7 +293,7 @@ See `docs/` folder for:
 - ✅ **AI-Powered**: Groq LLaMA 3.3 for intelligent insights
 - ✅ **Innovative ML**: Custom DPTAD & SIWTL algorithms
 - ✅ **Professional UI**: Modern, responsive design
-- ✅ **Comprehensive**: 5 major pages, 10+ API endpoints
+- ✅ **Comprehensive**: 5 major pages, 12+ API endpoints
 
 ---
 
@@ -207,7 +308,7 @@ See `docs/` folder for:
 **Frontend:**
 - React 18
 - Plotly.js (Charts)
-- TailwindCSS (Styling)
+- Custom CSS (Styling)
 - React Router
 
 **ML/AI:**
@@ -219,10 +320,21 @@ See `docs/` folder for:
 
 ## 📞 Support
 
-For any issues during evaluation, please check:
-1. Python and Node.js are installed
-2. Ports 8000 and 3001 are available
+For any issues during evaluation:
+1. Check Python and Node.js are installed
+2. Verify ports 8000 and 3001 are available
 3. Run `start.bat` or `start.sh` from project root
+4. Check `docs/SETUP.md` for detailed troubleshooting
+
+---
+
+## 🎯 Quick Reference
+
+| Component | URL | Description |
+|-----------|-----|-------------|
+| Frontend | http://localhost:3001 | Main application |
+| Backend API | http://localhost:8000 | REST API |
+| API Docs | http://localhost:8000/docs | Interactive API documentation |
 
 ---
 
